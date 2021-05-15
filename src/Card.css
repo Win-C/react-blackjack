@@ -1,5 +1,4 @@
 .Card {
-    display: inline-block;
-    width: 17%;
-    margin-right: 3%;
+    width: 200px;
+    margin: 5px;
 }
