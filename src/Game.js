@@ -6,12 +6,12 @@ import Message from './Message';
 import './Game.css';
 
 /** Game Component
- *  
- *  Props:
- *  - 
  * 
  *  State:
- *  - 
+ *  - deck is an array of 52 strings representing card rank and suit
+ *  - dealerHand is an array of strings like ["2C", "AH"]
+ *  - playerHand is an array of strings like ["2C", "AH"]
+ *  - msg is a string of the ending score for the game
  * 
  *  App -> Game -> Hand
  */
